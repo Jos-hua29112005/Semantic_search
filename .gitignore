@@ -1,0 +1,18 @@
+# HuggingFace cache
+hf_cache/
+
+# Models
+model/
+
+# Generated embeddings
+embeddings/
+
+# Dataset
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
