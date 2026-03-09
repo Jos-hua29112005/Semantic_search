@@ -1,6 +1,16 @@
 # Semantic Search with Fuzzy Clustering and Semantic Cache
 
 This project implements a semantic search system using the 20 Newsgroups dataset.
+## Dataset
+
+This project uses the 20 Newsgroups dataset.
+
+Download it from:
+https://archive.ics.uci.edu/dataset/113/twenty+newsgroups
+
+Extract it into:
+
+data/20_newsgroups
 
 ## Components
 
